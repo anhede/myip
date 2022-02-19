@@ -1,7 +1,5 @@
 # myip
-**myip [-i/--internal] [-e/--external]**
-
-## Summary
+**myip [-i/--internal] [-e/--external]** <br />
 A command-line tool for easily getting your own IP adress. Currently only works on Macbooks.
 Using the free and open API https://ifconfig.me/ for checking public IP adress <br />
 <img src="https://raw.githubusercontent.com/JosefAnhede/myip/main/myipexample.gif" width="400" height="256"/>

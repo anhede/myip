@@ -8,7 +8,7 @@ Using the free and open API https://ifconfig.me/ for checking public IP adress <
 ## Options
 **-i/--internal** Output internal/private IP <br />
 **-e/--external** Output external/public IP <br />
-If no parameters specified, it will by default output both adresses in a easy to read manner. The parameters are useful when combining with other commands. E.g. ´ping $(myip -e)´
+If no parameters specified, it will by default output both adresses in a easy to read manner. The parameters are useful when combining with other commands. E.g. `ping $(myip -e)`
 
 
 ## Installation
